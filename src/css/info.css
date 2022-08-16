@@ -1,0 +1,18 @@
+.info {
+	width: 30%;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	color: white;
+}
+
+.player {
+	border: 2px solid greenyellow;
+	border-radius: 15px;
+	padding: 6%;
+	display: flex;
+	font-size: 180%;
+	justify-content: center;
+	align-items: center;
+	width: 30%;
+}
